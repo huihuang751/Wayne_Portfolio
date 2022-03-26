@@ -3,7 +3,7 @@ Welcome to my portfolio
 
 # [Project 1: Data Visualization - Netflix](https://github.com/huihuang751/Data-Visualization-Project_Netflix)
 The purpose of this project is to practice data visualization and exploratory data analysis.
-The dataset contains 8000 Netflix movies and TV Shows data from [kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows).<br><br>
+The dataset contains 8000 Netflix movies and TV Shows data from [kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows).<br>
 
 ## Part1: Data cleaning
 Basic look of dataset, data cleaning, correct data type.
