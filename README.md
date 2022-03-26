@@ -12,9 +12,6 @@ The dataset contains 8000 Netflix movies and TV Shows data from [kaggle](https:/
 In this project, I focus on data cleaning, exploratory data analysis, and finding special insigts.
 
 ![](/images/part1.png)<br>
-We can observe that movies and TV shows dramatically increase in the past decade. However, it slowed down since 2019.<br>
-It should be influenced by COVIN-19 in 2019.<br><br>
-In top 10 countries, USA and UK are not surprisingly in top 1 and top 3, but India is top 2.<br>
 
 ---
 ![](/images/movies%20and%20tv%20shows%20difference.png)<br>
