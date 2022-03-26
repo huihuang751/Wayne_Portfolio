@@ -1,5 +1,9 @@
 # Wayne_Portfolio
-Welcome to my portfolio
+Welcome to my portfolio<br>
+These projects are my previous works and exercises. I will continue to add more projects to enhence my capabilities in data science and machine learning.<br>
+Thanks for reading!
+
+---
 
 # [Project 1: Data Visualization - Netflix](https://github.com/huihuang751/Data-Visualization-Project_Netflix)
 The purpose of this project is to practice data visualization and exploratory data analysis.
