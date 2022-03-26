@@ -1,7 +1,7 @@
 # Wayne_Portfolio
 Welcome to my portfolio
 
-# Project 1: Netflix EDA
+# [Project 1: Netflix EDA](https://github.com/huihuang751/Data-Visualization-Project_Netflix)
 ![](/images/Netflix_Logo_RGB.png)
 * line1
 * line2
