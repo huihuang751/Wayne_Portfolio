@@ -13,10 +13,7 @@ In this project, I focus on data cleaning, exploratory data analysis, and findin
 
 ![](/images/part1.png)<br>
 
----
 ![](/images/movies%20and%20tv%20shows%20difference.png)<br>
-In top 10 countries, there are huge different preference on Movies and TV Shows. Movies are more likely released in India, and TV shows are more popular in S. Korea. <br>
-Maybe Indians are interested in Bollywood, so Netflix offers more movies. On the other hands, S. Korea is well-known with their TV shows, such as squid game, thus it is in expectation that S. Korea has more TV shows on Netflix.<br/>
 
 ---
 
