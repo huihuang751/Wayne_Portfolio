@@ -4,6 +4,8 @@ These projects are my previous works and exercises. I will continue to add more 
 Thanks for reading!<br>
 
 ---
+# Kaggle Competition
+
 
 # [Project 1: Data Visualization - Netflix](https://github.com/huihuang751/Data-Visualization-Project_Netflix)
 The purpose of this project is to practice data visualization and exploratory data analysis.
