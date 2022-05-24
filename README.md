@@ -4,8 +4,15 @@ These projects are my previous works and exercises. I will continue to add more 
 Thanks for reading!<br>
 
 ---
-# Kaggle Competition
+# [Kaggle Competition](https://github.com/huihuang751/Kaggle-Competition/tree/main/Spaceship-Titanic)
 
+The Spaceship Titanic was an interstellar passenger liner launched a month ago. With almost 13,000 passengers on board, the vessel set out on its maiden voyage transporting emigrants from our solar system to three newly habitable exoplanets orbiting nearby stars.
+
+To help rescue crews and retrieve the lost passengers, I use XGBoost classifier and hyperparameter Tuning with Optuna to predict which passengers were transported by the anomaly using records recovered from the spaceship’s damaged computer system.
+
+My best score of accuracy: 0.79682
+
+[Please see my notebook to see detail](https://github.com/huihuang751/Kaggle-Competition/blob/main/Spaceship-Titanic/Spaceship_Titanic_lightgbm.ipynb)
 
 # [Project 1: Data Visualization - Netflix](https://github.com/huihuang751/Data-Visualization-Project_Netflix)
 The purpose of this project is to practice data visualization and exploratory data analysis.
