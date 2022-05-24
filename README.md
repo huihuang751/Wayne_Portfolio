@@ -3,6 +3,8 @@ Welcome to my portfolio<br>
 These projects are my previous works and exercises. I will continue to add more projects to enhence my capabilities in data science and machine learning.<br>
 Thanks for reading!<br>
 
+[Link to my Github](https://github.com/huihuang751)
+
 ---
 # [Kaggle Competition - Spaceship Titanic](https://github.com/huihuang751/Kaggle-Competition/tree/main/Spaceship-Titanic)
 
