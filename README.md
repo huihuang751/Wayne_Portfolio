@@ -4,7 +4,7 @@ These projects are my previous works and exercises. I will continue to add more 
 Thanks for reading!<br>
 
 ---
-# [Kaggle Competition](https://github.com/huihuang751/Kaggle-Competition/tree/main/Spaceship-Titanic)
+# [Kaggle Competition - Spaceship Titanic](https://github.com/huihuang751/Kaggle-Competition/tree/main/Spaceship-Titanic)
 
 The Spaceship Titanic was an interstellar passenger liner launched a month ago. With almost 13,000 passengers on board, the vessel set out on its maiden voyage transporting emigrants from our solar system to three newly habitable exoplanets orbiting nearby stars.
 
