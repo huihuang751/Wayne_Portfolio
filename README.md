@@ -10,9 +10,9 @@ The Spaceship Titanic was an interstellar passenger liner launched a month ago. 
 
 To help rescue crews and retrieve the lost passengers, I use XGBoost classifier and hyperparameter Tuning with Optuna to predict which passengers were transported by the anomaly using records recovered from the spaceship’s damaged computer system.
 
-My best score of accuracy: 0.79682
+**My best score of accuracy: 0.79682**
 
-[Please see my notebook to see detail](https://github.com/huihuang751/Kaggle-Competition/blob/main/Spaceship-Titanic/Spaceship_Titanic_lightgbm.ipynb)
+[Link to my notebook for details](https://github.com/huihuang751/Kaggle-Competition/blob/main/Spaceship-Titanic/Spaceship_Titanic_lightgbm.ipynb)
 
 # [Project 1: Data Visualization - Netflix](https://github.com/huihuang751/Data-Visualization-Project_Netflix)
 The purpose of this project is to practice data visualization and exploratory data analysis.
